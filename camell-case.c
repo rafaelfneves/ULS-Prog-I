@@ -30,5 +30,5 @@ int main ()
 	//Notas 
 	//scanf("%c", nome); %c - char; %s - string
 	//para pegar string - gets
-	//printf("%c", 65); - imprime letra A ma�sulca pois equivale a 65 e minuscula 97.
+	//printf("%c", 65); - imprime letra 'A' maiúscula pois equivale a 65 (Tabela ASCII) e minúscula 97 (Tabela ASCII).
 
